@@ -1,7 +1,3 @@
-# .github.io
-
-index.html
-
 <!DOCTYPE html>
 <html>
 <head>
